@@ -1,7 +1,4 @@
 # Calculadora
-Proyecto de Curso de Programacion 2 Universidad Catolica San Carlos
-
-
 UNIVERSIDAD DE GUAYAQUIL
 
 
