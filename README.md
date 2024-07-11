@@ -2,11 +2,11 @@
 Proyecto de Curso de Programacion 2 Universidad Catolica San Carlos
 
 
-UNIVERSIDAD CATOLICA DE COSTA RICA
+UNIVERSIDAD DE GUAYAQUIL
 
 
 
-PROGRAMACION II
+CONSTRUCCIÓN DE SOFTWARE 
 
 
 
@@ -17,18 +17,13 @@ CREAR  UN PROGRAMA EN JAVA, NETBEANS IDE 8.0.2 PARA SIMULAR UNA CALCULADORA
 
 
 
-ANDRES JIMENEZ LEANDRO
+Puma Bohórquez Arianna 
 
+Infante Barre Moisés 
 
+Narea Franco Fernando 
 
-
-DAGOBERTO IVAN ARROYO OBANDO
-
-
-
-
-
-
+Romero Herrera Moisés 
 
 
 
@@ -37,8 +32,14 @@ DAGOBERTO IVAN ARROYO OBANDO
 
 
 
-Universidad Católica de Costas Rica
-ABRIL, 2016
+
+
+
+
+
+
+Universidad de Guayaquil
+JULIO, 2024
  
 Contenido
 Resumen Ejecutivo	3
